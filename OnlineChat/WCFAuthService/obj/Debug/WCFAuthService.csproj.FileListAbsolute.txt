@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\OnlineChat\WCFAuthService\bin\WCFAuthService.dll.config
+C:\Users\User\source\repos\OnlineChat\WCFAuthService\bin\WCFAuthService.dll
+C:\Users\User\source\repos\OnlineChat\WCFAuthService\bin\WCFAuthService.pdb
+C:\Users\User\source\repos\OnlineChat\WCFAuthService\obj\Debug\WCFAuthService.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OnlineChat\WCFAuthService\obj\Debug\WCFAuthService.dll
+C:\Users\User\source\repos\OnlineChat\WCFAuthService\obj\Debug\WCFAuthService.pdb
+C:\Users\User\source\repos\OnlineChat\WCFAuthService\obj\Debug\WCFAuthService.csprojAssemblyReference.cache
